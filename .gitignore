@@ -1,0 +1,9 @@
+.venv
+.vscode
+TrainingFacesArr.npy
+TrainingLabelsArr.npy
+FaceRecogModel
+detector.svm
+homework.ipynb
+tryFaceDetection.ipynb
+HOGopencv.ipynb
